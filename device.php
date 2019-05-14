@@ -1083,6 +1083,15 @@ $hardware_info = [
         'display' => '5.99 inch, 2160x1080 pixel(403ppi)',
         'cpuarch' => 'ARM64'
     ],
+    ],
+    'payton' => [
+        'cpu' => 'Qualcomm Snapdragon™ 630',
+        'ram' => '3GB','4GB',6GB',
+        'rom' => '32GB','64',
+        'battery' => '3000 mAh',
+        'display' => '5.2 inch, 1080x1920 pixel(424ppi)',
+        'cpuarch' => 'ARM64'
+    ],
     'peach' => [
         'cpu' => 'Qualcomm Snapdragon™ 410',
         'ram' => '1GB',
